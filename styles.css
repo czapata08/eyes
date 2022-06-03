@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #14495e;
+}
+.title {
+  color: blanchedalmond;
+  font-size: 4em;
+  margin: 2.5%;
+  padding: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+.eyes {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye {
+  width: 240px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+.ball {
+  width: 80px;
+  height: 80px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.ball-cornea {
+  width: 20px;
+  height: 20px;
+  background: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+.container {
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center;
+  background-color: black;
+  width: 100%;
+  height: fit-content;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+}
