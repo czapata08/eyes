@@ -1,8 +1,8 @@
 <h1>Following Eyes</h1>
-<h4>This eyes are shaped with css techniques and follow the movement of the mouse on the browser to update their position</h4>
+<h4>This eyes are shaped with css techniques and follow the movement of the mouse on the browser to update position</h4>
 
 <h2>Usage</h2>
-<li>Move mouse thru browser and see eyes follwing<li>
+<li>Move mouse thru browser and see eyes following<li>
 
 <h2>Roadmap</h2>
 <li>Anchor eyes to a img file with responsive behavior</li>
@@ -10,7 +10,7 @@
 
 <h2>Project Goals</h2>
 <ol> 
-    <li>Create a eye shapes with css</li>
+    <li>Create eye shapes with css</li>
     <li>Work with css positioning</li>
     <li>Work with onmouse event and javascript</li>
 </ol>
