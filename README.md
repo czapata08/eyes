@@ -2,7 +2,8 @@
 <h4>This eyes are shaped with css techniques and follow the movement of the mouse on the browser to update position</h4>
 
 <h2>Usage</h2>
-<li>Move mouse thru browser and see eyes following<li>
+<ol>
+<li>Move mouse thru browser and see eyes following<li></ol>
     
 <h2>Roadmap</h2>
 <li>Anchor eyes to a img file with responsive behavior</li>
