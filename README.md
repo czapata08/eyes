@@ -9,17 +9,13 @@
 
 
 <h2>Project Goals</h2>
-<ol> 
     <li>Create eye shapes with css</li>
     <li>Work with css positioning</li>
     <li>Work with onmouse event and javascript</li>
-</ol>
 
 <h2> Key Learnings </h2>
-<ol> 
    <li> Work with mutiple CSS techniques to create and display eyes</li>
    <li> Structure javascript to update eyes location with onmouse event</li>
-</ol>
 
 <h2> Languages </h2>
 <li>JavaScript</li>
